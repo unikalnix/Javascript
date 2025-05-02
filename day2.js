@@ -76,7 +76,7 @@
 //     {
 //         id: 4,
 //         name: "Kamran",
-//         hobbies: ['Muth marna', 'Pondi', 'Fingering']
+//         hobbies: ['Reading', 'Writing']
 //     }
 // ]
 // console.log(users[3].hobbies[2])
