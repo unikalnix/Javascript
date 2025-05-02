@@ -110,6 +110,6 @@ prices.reduce(function(prev, curr){
 
 prices.reduce((prev, curr) => prev += curr, 0)
 
-// ------------------------------------------- Day 2==========================================
+// ------------------------------------------- Day 2 -------------------------------------------
 
 // Arrow Function, Async/Await, Try/Catch (Exceptions), Promises
